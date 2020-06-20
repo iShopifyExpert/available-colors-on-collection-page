@@ -1,0 +1,1 @@
+# available-colors-on-collection-page
